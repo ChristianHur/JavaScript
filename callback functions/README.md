@@ -1,6 +1,6 @@
 
 # Callback Functions
-Let's define and understand how callback functions work.
+Let's define callback functions and understand how they work.
 ## What is a Callback function?
 **Definition**:
 > A callback function is a function passed into another function as an
