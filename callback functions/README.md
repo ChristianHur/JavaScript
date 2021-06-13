@@ -23,3 +23,7 @@ Let's define callback functions and understand how they work.
 1.  can take other functions as arguments (example c)
 2.  can return a function as a value (example a)
 
+## Watch the video here
+Video:  [How and Why Callback Functions Are Used in JavaScript](https://youtu.be/8W4eEcY6vAo)
+
+Direct Link:  https://youtu.be/8W4eEcY6vAo
