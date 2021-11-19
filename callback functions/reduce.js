@@ -27,7 +27,7 @@ let ref3=numbers.reduce( (accumulator,currentValue)=>{
     return accumulator;
 }, 100)
 let ref4=numbers.reduce((a,c)=> isNaN(c) ? a : a + c, 100)
-function callback(ary,start){
+const callback = (ary,start) => {
     let sum = 0;
     for(let a of ary){
         sum += a;
