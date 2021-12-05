@@ -17,7 +17,7 @@ JavaScript is a powerful, versatile, specific-purpose, client-side scripting lan
 - JavaScript contains a standard library of objects, such as Array, Date, and Math, and a core set of language elements such as operators, control structures, and statements.  
 - JavaScript is designed on a simple object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value.
 
-Here’s a brief overview of the history of the Internet and Javascript.
+Here's a brief overview of the history of the Internet and Javascript.
 
 ### The Internet and World Wide Web
 
@@ -45,7 +45,7 @@ Here’s a brief overview of the history of the Internet and Javascript.
 
 ![Ecmascript editions](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/ecmascript.png)
 
-- More detailed information on the history of Javascript can be found here: https://auth0.com/blog/a-brief-history-of-javascript/
+- More detailed information on the history of JavaScript can be found here: https://auth0.com/blog/a-brief-history-of-javascript/
 - Latest release of ECMAScript can be found here: https://tc39.es/ecma262/#sec-intro
 
 ## Understanding Client/Server Architecture
