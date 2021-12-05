@@ -31,6 +31,8 @@ Here’s a brief overview of the history of the Internet and Javascript.
 - In 1996, Microsoft entered the market with the release of Internet Explorer (IE), and the so-called browser wars began, in which Microsoft and Netscape fought for control of the browser market.
 - Browser war was fought over dynamic HTML (DHTML), which is a combination of various technologies, including HTML and JavaScript, that allows a web page to change after it has been loaded by a browser.
 
+[alt netscape](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/netscape.png)
+
 ### JavaScript Standardization
 
 - JavaScript was invented by Brendan Eich in 1995, and became an ECMA standard in 1997.
