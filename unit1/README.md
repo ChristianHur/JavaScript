@@ -31,7 +31,7 @@ Here’s a brief overview of the history of the Internet and Javascript.
 - In 1996, Microsoft entered the market with the release of Internet Explorer (IE), and the so-called browser wars began, in which Microsoft and Netscape fought for control of the browser market.
 - Browser war was fought over dynamic HTML (DHTML), which is a combination of various technologies, including HTML and JavaScript, that allows a web page to change after it has been loaded by a browser.
 
-[alt netscape](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/netscape.png)
+![alt netscape](https://raw.githubusercontent.com/ChristianHur/152-097-JavaScript/master/unit1/images/netscape.png)
 
 ### JavaScript Standardization
 
@@ -39,13 +39,15 @@ Here’s a brief overview of the history of the Internet and Javascript.
 - ECMA stands for European Computer Manufacturers Association
 - ECMA-262 is the official name of the standard. ECMAScript is the official name of the language.
 
+![alt ecmascript editions](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/ecmascript.png)
+
 ### Latest version:  EMCAScript 7
 
 More detailed information on the history of Javascript can be found here:
 https://auth0.com/blog/a-brief-history-of-javascript/
 
 ## Understanding Client/Server Architecture
-
+![alt cleint-server architecture](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/client_server.png)
 - Server in the context of traditional client/server architecture.
 - A two-tier system as a system consisting of a client and a server, noting that a server fulfills a request for information by the client by managing the request or serving the requested information to the client.
 - Primary roles of the client (or front end) in a two-tier system.
@@ -65,3 +67,4 @@ https://auth0.com/blog/a-brief-history-of-javascript/
 	    |
             Text
 ```
+![alt 3 S's](https://github.com/ChristianHur/152-097-JavaScript/blob/master/unit1/images/3_layers.png)
