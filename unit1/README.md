@@ -54,12 +54,12 @@ https://auth0.com/blog/a-brief-history-of-javascript/
   WINDOW
     |
     DOCUMENT
-	    |
+      |
       JavaScript - Interaction - Script
-		    |
+        |
         CSS	- Style - Presentation Layer
-			     |
-           HTML  - Structure  - Semantic Language
-				     |
-             Text
+	  |
+          HTML  - Structure  - Semantic Language
+	    |
+            Text
 ```
