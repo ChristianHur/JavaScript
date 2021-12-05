@@ -28,7 +28,7 @@ Here’s a brief overview of the history of the Internet and Javascript.
 - The first website is still running today here:  http://info.cern.ch/
 
 ### Web Browsers & JavaScript
-= NCSA Mosaic was created in at the University of Illinois and was the first program to allow users to navigate the web by using a graphical user interface (GUI). 
+- NCSA Mosaic was created in at the University of Illinois and was the first program to allow users to navigate the web by using a graphical user interface (GUI). 
 - Netscape released Navigator in 1994 which soon controlled 75% of the market. 
 - In 1995 that JavaScript was conceived at Netscape.  JavaScript was originally called Mocha, then renamed to Livescript, then renamed again to JavaScript (after the popularity of Java).
 - JavaScript is NOT Java, and vice-versa.
