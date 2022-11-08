@@ -7,14 +7,14 @@ const gx = (data) => {
     return data.reduce((total, curElement) => total + curElement)
 }
 const hx = (obj) => {
-    let data = obj.a1.concat(obj.a2);
+    const data = obj.a1.concat(obj.a2);
     return obj.gx(data);
 }
 
 //main - higher order
 const main = (data, fn) => {
     //return fn(data)
-    let newData = fn(data);
+    const newData = fn(data);
     fn.done = (callback) => { return callback(newData) }
     return fn;
 }
