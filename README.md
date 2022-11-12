@@ -1,4 +1,4 @@
-# 152-097-JavaScript
+# JavaScript
 Welcome to JavaScript!
 
 ## Course Description
