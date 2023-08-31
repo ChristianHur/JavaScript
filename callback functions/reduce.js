@@ -8,25 +8,26 @@ for(let n of numbers){
     sum += n;
 }
 sum=0;
-const ref1 = numbers.forEach( (n)=>{
+const ref1 = numbers.forEach( n => {
     sum += n;
     return sum;
 })
 sum=0;
-const ref2 = numbers.map( (n)=>{
+const ref2 = numbers.map( n =>{
     sum += n;
     return typeof this;
 })
 
-const ref3 = numbers.reduce( (accumulator,currentValue)=>{
+const ref3 = numbers.reduce( (accumulator,currentValue) => {
     if(isNaN(currentValue)){
-        accumulator = accumulator + 0;
+        accumulator += 0;
         return accumulator;
     }
     return accumulator + currentValue;
     
 }, 100)
-const ref4 = numbers.reduce((a,c)=> isNaN(c) ? a : a + c, 100)
+
+const ref4 = numbers.reduce( (a,c) => isNaN(c) ? a : a + c, 100)
 const callback = (ary,start) => {
     let sum = 0;
     for(let a of ary){
@@ -34,8 +35,9 @@ const callback = (ary,start) => {
     }
     return sum;
 }
+
 const me = {
-    reduce2: (ary,callback,start=0)=>{
+    reduce2: (ary,callback,start=0) => {
         const total = start;    
         return total + callback(ary,start);
     }
