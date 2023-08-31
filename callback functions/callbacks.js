@@ -1,7 +1,6 @@
 onload = ()=>{
-
     const btn = document.getElementById("click-me");
-    btn.addEventListener("click", (e)=>{
+    btn.addEventListener("click", ev => {
         console.log("You clicked me!")
         fetch("data.json")
             .then( response => response.json() )
