@@ -1,15 +1,9 @@
 //callback
-const fx = (data) => {
-    return "My name is " + data;
-}
+const fx = data => "My name is " + data;
 
-const gx = (data) => {
-    return data.reduce((total, curElement) => total + curElement)
-}
-const hx = (obj) => {
-    const data = obj.a1.concat(obj.a2);
-    return obj.gx(data);
-}
+const gx = data => data.reduce((total, curElement) => total + curElement);
+
+const hx = obj => obj.gx(obj.a1.concat(obj.a2));
 
 //main - higher order
 const main = (data, fn) => {
