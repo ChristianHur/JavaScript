@@ -1,0 +1,27 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#comments {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.comment {
+    margin-bottom: 15px;
+}
+
+.comment strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.comment p {
+    margin: 5px 0;
+}
+
+input {
+    margin: 10px 0;
+}

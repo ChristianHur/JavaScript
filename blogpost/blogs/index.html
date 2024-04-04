@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="ajax.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Blog Posts</h1>
+
+    <article id="blog-post"></article>
+
+    <div id="comments">        
+    </div>
+
+    <form id="comment-form">
+        <input type="text" id="author" name="author" placeholder="Author">
+        <div>
+            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+        </div>
+        <button type="submit">Post Comment</button>
+    </form>
+</body>
+
+</html>
